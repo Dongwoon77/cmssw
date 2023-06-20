@@ -49,6 +49,7 @@ process.MessageLogger.cerr.FwkReport.reportEvery = 1
 process.GEMDigiSource.runType = "online"
 process.GEMRecHitSource.runType = "online"
 process.GEMDAQStatusSource.runType = "online"
+process.GEMPadDigiClusterSource.runType = "online"
 
 # from csc_dqm_sourceclient-live_cfg.py
 process.CSCGeometryESModule.useGangedStripsInME1a = False
